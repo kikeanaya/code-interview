@@ -1,5 +1,5 @@
 # Phone Catalogue
-This app shows the user a list of phones and when they click on one model it shows them more details for that phone.
+This app shows the user a list of phones with some information, if they click on one model it shows them further details for that phone. The app has responsive design so it looks good on computers and mobile phones.
 
 ## Setup
 
@@ -10,7 +10,6 @@ To run this project you have two options:
 Go to the root folder of the project and run the following commands:
 
 ```
-cd exercise
 docker-compose build
 docker-compose up
 ```
